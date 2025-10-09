@@ -16,7 +16,7 @@ Our study focuses only on **public communication** that GitHub users have volunt
 ## ⚖️ Ethics & Data Security
 
 * All processing of personal data follows the **General Data Protection Regulation (GDPR)** [(EU 2016/679)](https://gdpr-info.eu/).
-* The project has been reviewed by the [Swedish Ethical Review Authority](https://etikprovningsmyndigheten.se/en/) with **no ethical objections**.
+* [The Swedish Ethical Review Authority](https://etikprovningsmyndigheten.se/en/) deemed the study exempt from full review and issued an advisory of **no ethical objections**.
 * The study aligns with GitHub’s policies and community standards:
 
   * [Community Guidelines](https://docs.github.com/en/site-policy/github-terms/github-community-guidelines)
